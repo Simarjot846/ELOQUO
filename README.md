@@ -16,9 +16,13 @@ In a world full of noise, not everyone has someone to talk to. Eloquo was born o
 
 ## 🛠️ Tech Stack
 
-- **Frontend & Logic:** HTML, CSS, JavaScript, Streamlit, Python
-- **AI/ML:** OpenAI GPT API, Whisper (Speech-to-Text), Sentiment Analysis
-- **Others:** GitHub, Figma (for UI), Canva (for branding)
+| Layer        | Tech Used                                      |
+|--------------|------------------------------------------------|
+| **Frontend** | React Native / React.js / TypeScript (TSX)     |
+| **Backend**  | Python (Flask API)                             |
+| **AI Models**| OpenAI API, Google Speech-to-Text, MediaPipe   |
+| **Demos**    | Gradio, Streamlit                              |
+
 
 ## 🧑‍💻 Made With Love By
 
