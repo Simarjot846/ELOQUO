@@ -33,7 +33,7 @@ In a world full of noise, not everyone has someone to talk to. Eloquo was born o
 
 ```bash
 git clone https://github.com/yourusername/eloquo.git
-cd eloquo
+cd ELOQUO
 venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
