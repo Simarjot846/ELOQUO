@@ -35,5 +35,8 @@ In a world full of noise, not everyone has someone to talk to. Eloquo was born o
 git clone https://github.com/yourusername/eloquo.git
 cd ELOQUO
 venv\Scripts\activate
-pip install -r requirements.txt
+pip install streamlit sounddevice scipy
+pip install speechbrain
+pip install opencv-python
+pip install medipipe
 streamlit run app.py
