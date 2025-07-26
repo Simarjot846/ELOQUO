@@ -1,0 +1,16 @@
+{
+  "name": "speakup-7",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "expo-av": "~15.1.7",
+    "react-native": "^0.80.1"
+  }
+}
