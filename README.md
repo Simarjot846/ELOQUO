@@ -33,6 +33,14 @@ In a world full of noise, not everyone has someone to talk to. Eloquo was born o
 - 🎥 **Ibrahim**  
   *Helped with video content, demo creation, and visuals.*
 
+## ICP Component
+
+- Canister deployed using DFINITY SDK
+- Contains a basic backend module using Motoko
+- Shows Eloquo’s integration with Internet Computer
+
+✅ dfx.json available in `eloquo_ic/`  
+
 ## 📂 How to Run It Locally
 
 ```bash
